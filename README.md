@@ -6,3 +6,6 @@ Features:
 2. Grocery (BuzzPool-grocery)
 3. Tutoring (BuzzPool-tutoring) 
 4. 3 in 1 (BuzzPool_3_in_1): Under this mockup you'll find all the above three features under one roof.
+
+Screenshots of the app:
+![alt text](https://shorturl.at/dOSU0)
